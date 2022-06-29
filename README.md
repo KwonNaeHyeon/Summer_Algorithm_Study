@@ -18,10 +18,8 @@
 인원이 8명이라서, 그냥 Collaborators에 초대하겠습니다!
 그리고 이 저장소를 fork해주세요
 
-![image](https://user-images.githubusercontent.com/92802207/176011075-96794bc9-352e-42cd-854c-4bca42949c47.png)
-<br>week_n(n은 스터디 주차) 폴더 안에<br>
 ![image](https://user-images.githubusercontent.com/92802207/176011267-8ab01e92-8a75-4e06-9381-c2c41d35d54f.png)
-<br> " 문제번호.언어 " 로 파일 이름을 작성해주세요
+<br>week_n(n은 스터디 주차) 폴더 안에 " 문제번호.언어 " 로 파일 이름을 작성해주세요
 
 ![image](https://user-images.githubusercontent.com/92802207/176011627-2afcfcd9-8401-4551-9649-b020aa57b114.png)
 
