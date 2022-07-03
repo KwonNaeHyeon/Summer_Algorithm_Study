@@ -33,7 +33,7 @@ int main(){
     for(int i=0;i<M;i++){
         int x;
         cin>>x;
-        broken[x]=true;
+        broken[x]=true; 
     }
     cnt=abs(N-100);    //+/-만 사용한 경우의 버튼 입력 횟수
     for(int i=0;i<1000000;i++){ //최대 이동 가능한 채널은 1000000이다.
