@@ -35,4 +35,4 @@
 
 | 주차 | 결석자 | 문제 |
 | ------- | ------- | ------- |
-| week_1 | x | [1003](https://www.acmicpc.net/problem/1003), [1107](https://www.acmicpc.net/problem/1107), [18111](https://www.acmicpc.net/problem/18111), [2512](https://www.acmicpc.net/problem/2512), [4963](https://www.acmicpc.net/problem/4963)|
+| week_1 | x | [1003](https://www.acmicpc.net/problem/1003), [1107](https://www.acmicpc.net/problem/1107), [18111](https://www.acmicpc.net/problem/18111), [2512](https://www.acmicpc.net/problem/2512), [4963](https://www.acmicpc.net/problem/4963), [12865](https://www.acmicpc.net/problem/12865)|
