@@ -1,5 +1,4 @@
 <h1> 2022 여름방학 코딩 문제풀이(알고리즘) 스터디🔥 </h1>
-
 스터디 공지사항과 참여방법 및 진행도
 
 <h2>📢 공지</h2>
@@ -8,8 +7,8 @@
 발표 요일 / 시간 : <b>매주 일요일 밤 9시</b> <br>
 발표를 마치면, 발표 때 선정했던 문제를 깃허브에 업로드합니다.
 
-나머지는 자율입니다. 발표때 소개받은 문제를 풀어봐도 되고, <br>
-줌 발표 때 알고리즘/자료구조 강의를 해도 됩니다(대환영ㅋㅋ) 하지만 <b>발표와 깃허브 업로드</b>는 꼭 지켜주세요!
+나머지는 자율입니다. 그 주마다 발표때 소개받은 문제들을 풀어보면 좋을 것 같습니다! <br>
+<b>발표와 깃허브 업로드</b>는 꼭 지켜주세요!
 
 <h2>✅ 깃허브 업로드 방법</h2>
 
@@ -30,9 +29,13 @@
 커밋 메세지는 알아보기 쉽게 이름으로 적어주세요 (닉네임 하셔도 괜찮음)<br>
 설명도 간단하게 해주시면 됩니다
 
-간단하죵?
+### ❗ 내 문제만 모아서 보고 싶다면
+
+![image](https://user-images.githubusercontent.com/92802207/177471394-3226a35a-0ae9-4e81-b28e-297c940ff92f.png)
+내가 푼 문제들만 따로 모아서 보고 싶다면, 이름 폴더를 생성하셔서 안에 문제 파일을 업로드해주시면 됩니다!
+
 <h2>💪 진행도</h2>
 
 | 주차 | 결석자 | 문제 |
 | ------- | ------- | ------- |
-| week_1 | x | [1003](https://www.acmicpc.net/problem/1003), [1107](https://www.acmicpc.net/problem/1107), [18111](https://www.acmicpc.net/problem/18111), [2512](https://www.acmicpc.net/problem/2512), [4963](https://www.acmicpc.net/problem/4963), [12865](https://www.acmicpc.net/problem/12865)|
+| week_1 | x | [1003](https://www.acmicpc.net/problem/1003), [1107](https://www.acmicpc.net/problem/1107), [18111](https://www.acmicpc.net/problem/18111), [2512](https://www.acmicpc.net/problem/2512), [4963](https://www.acmicpc.net/problem/4963), [12865](https://www.acmicpc.net/problem/12865), [1018](https://www.acmicpc.net/problem/1018), [1011](https://www.acmicpc.net/problem/1011)|
