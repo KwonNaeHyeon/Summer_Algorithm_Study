@@ -24,15 +24,16 @@
 
 코드를 업로드하시거나 작성해주시고
 
-![image](https://user-images.githubusercontent.com/92802207/176011453-833b2260-c5c5-4983-b94f-f68f1020d1ae.png)
+![image](https://user-images.githubusercontent.com/92802207/177920965-6559fec7-f4d2-48c2-9cac-e000fdbd6a92.png)
 
-커밋 메세지는 알아보기 쉽게 이름으로 적어주세요 (닉네임 하셔도 괜찮음)<br>
+커밋 메세지는 알아보기 쉽게 "이름-문제이름"으로 적어주세요 (닉네임 하셔도 괜찮음)<br>
 설명도 간단하게 해주시면 됩니다
 
 ### ❗ 내 문제만 모아서 보고 싶다면
 
 ![image](https://user-images.githubusercontent.com/92802207/177471394-3226a35a-0ae9-4e81-b28e-297c940ff92f.png)
 내가 푼 문제들만 따로 모아서 보고 싶다면, 이름 폴더를 생성하셔서 안에 문제 파일을 업로드해주시면 됩니다!
+<br>자기이름 폴더 안에는 자유롭게 문제 파일을 업로드하셔도 좋습니다!
 
 <h2>💪 진행도</h2>
 
